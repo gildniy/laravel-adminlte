@@ -31,11 +31,11 @@ This command requires you to have Composer installed globally, as explained in t
 Step 2: Enable the package
 --------------------------
 
-Then, enable the package by adding the following line in the `app/config.php` file of your project:
+Then, enable the package by adding the following line in the `config/app.php` file of your project:
 
 ```php
 <?php
-// app/config.php
+// config/app.php
 
 return [
 
